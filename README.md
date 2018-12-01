@@ -1,2 +1,6 @@
 # hello-world
-First repository
+
+Hi everyone!
+
+Vishal here, im currently learning python.
+Making this repository as a practise.
